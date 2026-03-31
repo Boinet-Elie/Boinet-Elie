@@ -16,15 +16,6 @@ Développeur **Fullstack** passionné par la création d'applications web robust
 
 ---
 
-## 🚀 Projets
-
-- 🔑 **[Generateur_MDP](https://github.com/Boinet-Elie/Generateur_MDP)** — Générateur de mots de passe en JavaScript
-- 🌐 **[Portfolio](https://github.com/Boinet-Elie/Portfolio)** — Mon portfolio personnel en HTML/CSS
-- 🧮 **[Calculator](https://github.com/Boinet-Elie/Calculator)** — Calculatrice en Assembly
-- 🎮 **[Hangman](https://github.com/Boinet-Elie/Hangman)** — Jeu du pendu en Assembly
-
----
-
 ## 📊 Stats GitHub
 
 <p align="center">
